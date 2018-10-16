@@ -30,8 +30,6 @@
 
 import UIKit
 import ARKit
-import SpriteKit
-import GameplayKit
 
 class GameViewController: UIViewController {
   var sceneView: ARSKView!
